@@ -21,7 +21,7 @@ section{
     border-radius: 5px;
 }
 .top{
-    background-color: darkseagreen;
+    
     padding-left: 20px;
     padding-right: 5px;
 }
@@ -41,3 +41,14 @@ th,td{
     
     
 }
+
+.majh{
+    text-align: center;
+}
+.size {
+    size: 100px;
+}
+.col{
+    background-color:wheat 
+}
+
